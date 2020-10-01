@@ -18,9 +18,13 @@ Tesi di progetto - Laurea in Informatica
 * Il mio contributo
     * Datetime widget (sviluppo, a11y, testing, i18n)
     * Usabilità form (UX, feedback e interazioni)
+    * Split styles (?)
     * Dropdown menu (design e progettazione, estensibilità, riusabilità, design adattivo)
 * Gestire progetti distribuiti OSS: il caso Volto
     * Il mio ruolo
     * Come garantire qualità
 * Modello business collaborativo
 * Io-comune
+
+nb: evoluzioni future
+nb: esempi sempre => anche per argomenti teorici (issue, pr, progetti)
