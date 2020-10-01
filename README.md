@@ -26,5 +26,5 @@ Tesi di progetto - Laurea in Informatica
 * Modello business collaborativo
 * Io-comune
 
-nb: evoluzioni future
+nb: evoluzioni future  
 nb: esempi sempre => anche per argomenti teorici (issue, pr, progetti)
