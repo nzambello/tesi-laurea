@@ -3,6 +3,7 @@ Tesi di progetto - Laurea in Informatica
 
 * Modelli di sviluppo OSS
     * Bazaar vs cattedrale
+    * https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=open+source+development+model&btnG=&oq=open+source+deve
 * Plone community e collective
     * Il caso npm
 * Plone CMS e Volto
