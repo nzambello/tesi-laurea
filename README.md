@@ -9,7 +9,7 @@ Tesi di progetto - Laurea in Informatica
 * Plone CMS e Volto
 * Qualità: testing, mantenibilità
     * Obiettivi e vantaggi
-    * Tecnologie
+    * Tecnologie (cypress etc, sentry o logrocket?)
     * Esempi
 * Accessibilità e auditing come community
     * Requisiti e normative
