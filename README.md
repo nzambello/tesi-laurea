@@ -16,7 +16,7 @@ Tesi di progetto - Laurea in Informatica
     * Il caso Volto
     * Tecnologie
 * Il mio contributo
-    * Datetime widget (sviluppo, a11y, testing, i18n)
+    * Datetime widget (sviluppo, a11y, testing, i18n, https://github.com/plone/volto/pull/1145)
     * Usabilità form (UX, feedback e interazioni)
     * Split styles (?)
     * Dropdown menu (design e progettazione, estensibilità, riusabilità, design adattivo)
